@@ -1,0 +1,185 @@
+{
+  "bot": {
+    "name": "NEKO",
+    "version": "3.0.0",
+    "personality": "sassy",
+    "language": "english"
+  },
+  "account": {
+    "type": "offline",
+    "username": "NEKO",
+    "password": null,
+    "auth": {
+      "type": "offline"
+    }
+  },
+  "server": {
+    "host": "DJ_Kuddus.aternos.me",
+    "port": 33508,
+    "version": "1.20.1",
+    "username": "NEKO"
+  },
+  "spawn": {
+    "enabled": true,
+    "x": 0,
+    "y": 100,
+    "z": 0,
+    "dimension": "overworld"
+  },
+  "ai": {
+    "enabled": true,
+    "chat": {
+      "enabled": true,
+      "respondToChat": true,
+      "provider": "groq",
+      "groq": {
+        "model": "llama-3.1-8b-instant",
+        "temperature": 0.8,
+        "maxTokens": 120,
+        "timeout": 8000
+      },
+      "fallback": {
+        "enabled": true,
+        "useTemplates": true
+      }
+    },
+    "learning": {
+      "enabled": true,
+      "recordExperiences": true,
+      "adaptBehavior": true,
+      "minPatternOccurrences": 3
+    },
+    "goals": {
+      "enabled": true,
+      "priorityMode": "weighted",
+      "survivalPriority": 10,
+      "explorationWeight": 5,
+      "buildingWeight": 3
+    }
+  },
+  "gameplay": {
+    "combat": {
+      "enabled": true,
+      "autoEat": true,
+      "attackMobs": true,
+      "fleeFromDanger": true,
+      "minDistanceFromMobs": 5
+    },
+    "movement": {
+      "enabled": true,
+      "antiAfk": {
+        "enabled": true,
+        "interval": 10000,
+        "sneakChance": 0.3,
+        "jumpChance": 0.2
+      },
+      "exploration": {
+        "enabled": true,
+        "maxDistanceFromBase": 1000,
+        "biomeExploration": true
+      }
+    },
+    "gathering": {
+      "mining": {
+        "enabled": true,
+        "autoMine": true,
+        "targetOres": [
+          "coal_ore",
+          "iron_ore",
+          "diamond_ore",
+          "gold_ore"
+        ]
+      },
+      "farming": {
+        "enabled": true,
+        "crops": ["wheat", "carrots", "potatoes"],
+        "autoFarm": true
+      },
+      "trees": {
+        "enabled": true,
+        "autoFarm": true
+      }
+    },
+    "building": {
+      "enabled": true,
+      "buildBase": true,
+      "progression": [
+        "dirt_shelter",
+        "wooden_house",
+        "stone_base",
+        "brick_mansion",
+        "nether_facility"
+      ]
+    }
+  },
+  "memory": {
+    "persistent": true,
+    "savePath": "./data/memory.json",
+    "autoSave": true,
+    "autoSaveInterval": 60000,
+    "maxPlayerHistory": 100,
+    "maxInteractionHistory": 50,
+    "specialPlayers": {
+      "DJ_Kuddus": {
+        "nickname": "SUN",
+        "role": "creator",
+        "personality": "respectful"
+      },
+      "Ancention": {
+        "nickname": "HASIB",
+        "role": "roast_target",
+        "personality": "savage"
+      },
+      "Rejwan13344": {
+        "nickname": "REJWAN",
+        "role": "rizz_target",
+        "personality": "flirty"
+      }
+    }
+  },
+  "logging": {
+    "level": "info",
+    "format": "json",
+    "console": true,
+    "file": {
+      "enabled": true,
+      "path": "./logs/bot.log",
+      "maxSize": "10m",
+      "maxFiles": 5
+    },
+    "modules": {
+      "movement": "info",
+      "combat": "info",
+      "chat": "debug",
+      "learning": "info",
+      "memory": "warn"
+    }
+  },
+  "dashboard": {
+    "enabled": true,
+    "port": 5000,
+    "host": "0.0.0.0",
+    "apiVersion": "v1",
+    "theme": "dark",
+    "updateInterval": 1000
+  },
+  "monitoring": {
+    "healthCheck": {
+      "enabled": true,
+      "interval": 30000,
+      "endpoint": "/health"
+    },
+    "telemetry": {
+      "enabled": false,
+      "provider": "none"
+    },
+    "errorReporting": {
+      "enabled": true,
+      "maxErrorHistory": 100
+    }
+  },
+  "experimental": {
+    "enabled": false,
+    "features": []
+  }
+}
