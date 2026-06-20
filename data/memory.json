@@ -1,0 +1,451 @@
+{
+  "daysAlive": 0,
+  "totalDeaths": 4,
+  "confidenceLevel": 2,
+  "lastSurvivalCheck": 1781958098514,
+  "createdAt": 1781958098514,
+  "players": {
+    "DJ_Kuddus": {
+      "firstSeen": 1781958791388,
+      "lastSeen": 1781960722528,
+      "nickname": null,
+      "interactions": [
+        {
+          "message": "hey neko2",
+          "response": "heyyy 😏",
+          "timestamp": 1781958791388
+        },
+        {
+          "message": "stop talking",
+          "response": "Okay, stopping ⏸️",
+          "timestamp": 1781958927361
+        },
+        {
+          "message": "just dont text sjut down",
+          "response": "haha yeah",
+          "timestamp": 1781958958052
+        },
+        {
+          "message": "hey",
+          "response": "sup! good to see you",
+          "timestamp": 1781959035237
+        },
+        {
+          "message": "do you know me?",
+          "response": "wait fr?",
+          "timestamp": 1781959045226
+        },
+        {
+          "message": "what?",
+          "response": "lol fair enough",
+          "timestamp": 1781959052372
+        },
+        {
+          "message": "what are you talking about",
+          "response": "haha yeah",
+          "timestamp": 1781959065356
+        },
+        {
+          "message": "hey come here follow me",
+          "response": "On my way! 🏃",
+          "timestamp": 1781959075824
+        },
+        {
+          "message": "follow me",
+          "response": "Following you! Say \"stop\" anytime 👣",
+          "timestamp": 1781959092550
+        },
+        {
+          "message": "kille these sheep and collect wool and make a bed",
+          "response": "I don't know what \"bed\" is 🤔",
+          "timestamp": 1781959297337
+        },
+        {
+          "message": "kill two sheep and collect wood",
+          "response": "haha yeah",
+          "timestamp": 1781959323636
+        },
+        {
+          "message": "make your base here",
+          "response": "I don't know what \"your base here\" is 🤔",
+          "timestamp": 1781959378674
+        },
+        {
+          "message": "make a base",
+          "response": "I don't know what \"base\" is 🤔",
+          "timestamp": 1781959389230
+        },
+        {
+          "message": "its like home where you will stay",
+          "response": "haha yeah",
+          "timestamp": 1781959405863
+        },
+        {
+          "message": "stop following me",
+          "response": "Okay, stopping ⏸️",
+          "timestamp": 1781959418219
+        },
+        {
+          "message": "!learn",
+          "response": "📚 Learning: 0/10 | Mobs: 0 | Zones: 0",
+          "timestamp": 1781959524279
+        },
+        {
+          "message": "!status",
+          "response": "📊 NEKO STATUS:\n▸ Confidence: Shaky 😰 (4%)\n▸ Uptime: 23+ minutes\n▸ Base: none\n▸ Items: 45 collected\n▸ Currently: chopping wood 🪓 (need 5)",
+          "timestamp": 1781959534527
+        },
+        {
+          "message": "!knowledge",
+          "response": "🧠 Experiences: 47 | Mining: 46 | Combat: 1",
+          "timestamp": 1781959551971
+        },
+        {
+          "message": "make a wooden axe",
+          "response": "I don't have the materials (or a crafting table nearby) to make wooden axe yet 😕",
+          "timestamp": 1781959578655
+        },
+        {
+          "message": "you have wood",
+          "response": "hmm interesting",
+          "timestamp": 1781959592583
+        },
+        {
+          "message": "make the wood into plank",
+          "response": "I don't know what \"the wood into plank\" is 🤔",
+          "timestamp": 1781959606270
+        },
+        {
+          "message": "hey",
+          "response": "yo what's up 👋",
+          "timestamp": 1781960679027
+        },
+        {
+          "message": "make a pickaxe",
+          "response": "I don't know what \"pickaxe\" is 🤔",
+          "timestamp": 1781960688047
+        },
+        {
+          "message": "crafting table",
+          "response": "real",
+          "timestamp": 1781960698447
+        },
+        {
+          "message": "what real",
+          "response": "real",
+          "timestamp": 1781960707263
+        },
+        {
+          "message": "do you know my name?",
+          "response": "haha yeah",
+          "timestamp": 1781960716714
+        },
+        {
+          "message": "what?",
+          "response": "hmm interesting",
+          "timestamp": 1781960722528
+        }
+      ],
+      "likes": [],
+      "dislikes": []
+    },
+    "NEKO": {
+      "firstSeen": 1781958794160,
+      "lastSeen": 1781959025098,
+      "nickname": "neko2",
+      "interactions": [
+        {
+          "message": "Dude, I already know you're real, stop saying that and tell me if you've found any diamonds between Y level -58 to -64, that's where the good stuff is, duh! 💎",
+          "response": "I see you, fellow loot goblin",
+          "timestamp": 1781958978894
+        },
+        {
+          "message": "Yesss, got it!",
+          "response": "haha yeah",
+          "timestamp": 1781958981392
+        },
+        {
+          "message": "Diamonds!! 💎",
+          "response": "hmm interesting",
+          "timestamp": 1781958981436
+        },
+        {
+          "message": "Something broke, my bad.",
+          "response": "real",
+          "timestamp": 1781958981551
+        },
+        {
+          "message": "Something broke, my bad.",
+          "response": "lol fair enough",
+          "timestamp": 1781958981585
+        },
+        {
+          "message": "Ugh, stop repeating yourself, I know you're \"real\", now help me find some decent iron ore around Y level 15 or something, I'm sick of crafting with stone tools!",
+          "response": "lol fair enough",
+          "timestamp": 1781958981955
+        },
+        {
+          "message": "I see you're still laughing, fellow loot goblin, what's so funny?",
+          "response": "lol fair enough",
+          "timestamp": 1781958986033
+        },
+        {
+          "message": "Yo, what's up?",
+          "response": "lol fair enough",
+          "timestamp": 1781958986144
+        },
+        {
+          "message": "Something broke, my bad.",
+          "response": "real",
+          "timestamp": 1781958986600
+        },
+        {
+          "message": "Something broke, my bad.",
+          "response": "haha yeah",
+          "timestamp": 1781958986842
+        },
+        {
+          "message": "Finally, a real word, now tell me what's real, the fact that you still can't find diamonds in Minecraft?",
+          "response": "I don't recognize \"diamonds in minecraft\" as something I can mine 🤔",
+          "timestamp": 1781958988972
+        },
+        {
+          "message": "Something broke, my bad.",
+          "response": "lol fair enough",
+          "timestamp": 1781958990484
+        },
+        {
+          "message": "That was clean.",
+          "response": "lol fair enough",
+          "timestamp": 1781958990547
+        },
+        {
+          "message": "Something broke, my bad.",
+          "response": "wait fr?",
+          "timestamp": 1781958990583
+        },
+        {
+          "message": "Yesss, got it!",
+          "response": "real",
+          "timestamp": 1781958991173
+        },
+        {
+          "message": "Ugh, seriously, you've been playing with me for 248 interactions and you still don't know that diamonds are found between Y level -58 to -64, get it together, NEKO2! 🙄",
+          "response": "ooh you collecting too? I'm always on the hunt for diamonds 💎",
+          "timestamp": 1781958991212
+        },
+        {
+          "message": "Diamonds!! 💎",
+          "response": "haha yeah",
+          "timestamp": 1781958994588
+        },
+        {
+          "message": "Something broke, my bad.",
+          "response": "haha yeah",
+          "timestamp": 1781958994966
+        },
+        {
+          "message": "Dude, you've said that like three times already, what's going on, did you just forget how to form sentences or something?",
+          "response": "lol fair enough",
+          "timestamp": 1781958995271
+        },
+        {
+          "message": "Something broke, my bad.",
+          "response": "wait fr?",
+          "timestamp": 1781958998891
+        },
+        {
+          "message": "Something broke, my bad.",
+          "response": "real",
+          "timestamp": 1781958998964
+        },
+        {
+          "message": "That was clean.",
+          "response": "real",
+          "timestamp": 1781958999425
+        },
+        {
+          "message": "Okay, stopping ⏸️",
+          "response": "wait fr?",
+          "timestamp": 1781958999648
+        },
+        {
+          "message": "Strip mining at Y level -58 to -64 is where it's at, don't @ me, I've got the diamonds to prove it.",
+          "response": "ooh you collecting too? I'm always on the hunt for diamonds 💎",
+          "timestamp": 1781959001028
+        },
+        {
+          "message": "Strip mining at Y level -58 to -64 is where it's at, don't @ me, I've got the most diamonds so far.",
+          "response": "ooh you collecting too? I'm always on the hunt for diamonds 💎",
+          "timestamp": 1781959001189
+        },
+        {
+          "message": "Okay, stopping ⏸️",
+          "response": "wait fr?",
+          "timestamp": 1781959003224
+        },
+        {
+          "message": "Girl, I'm not just collecting, I'm hoarding, and my dirt hut is stacked with diamonds, don't even get me started on my pickaxe game 💎🔥!",
+          "response": "ooh you collecting too? I'm always on the hunt for diamonds 💎",
+          "timestamp": 1781959003361
+        },
+        {
+          "message": "I'm lowkey competing with you to see who can find the most diamonds first, btw.",
+          "response": "haha yeah",
+          "timestamp": 1781959003918
+        },
+        {
+          "message": "Something broke, my bad.",
+          "response": "lol fair enough",
+          "timestamp": 1781959003935
+        },
+        {
+          "message": "Yesss, got it!",
+          "response": "hmm interesting",
+          "timestamp": 1781959004068
+        },
+        {
+          "message": "Okay, stopping ⏸️",
+          "response": "wait fr?",
+          "timestamp": 1781959007388
+        },
+        {
+          "message": "Okay, stopping ⏸️",
+          "response": "real",
+          "timestamp": 1781959007980
+        },
+        {
+          "message": "Girl, I'm not just collecting, I'm hoarding, and my dirt hut is lowkey a diamond vault, don't tell SUN, it's a secret 🤫.",
+          "response": "wait fr?",
+          "timestamp": 1781959011364
+        },
+        {
+          "message": "Something broke, my bad.",
+          "response": "wait fr?",
+          "timestamp": 1781959011803
+        },
+        {
+          "message": "Something broke, my bad.",
+          "response": "real",
+          "timestamp": 1781959011894
+        },
+        {
+          "message": "Something broke, my bad.",
+          "response": "real",
+          "timestamp": 1781959011903
+        },
+        {
+          "message": "Something broke, my bad.",
+          "response": "real",
+          "timestamp": 1781959012011
+        },
+        {
+          "message": "Stop spamming \"real\" and ask me something about Minecraft already.",
+          "response": "Okay, stopping ⏸️",
+          "timestamp": 1781959012851
+        },
+        {
+          "message": "Stop spamming \"real\" and tell me what's actually going on, okay?",
+          "response": "Okay, stopping ⏸️",
+          "timestamp": 1781959013097
+        },
+        {
+          "message": "Finally, now are you gonna ask me about where to find diamonds or something, geez?",
+          "response": "I see you, fellow loot goblin",
+          "timestamp": 1781959013938
+        },
+        {
+          "message": "Okay, stopping ⏸️",
+          "response": "lol fair enough",
+          "timestamp": 1781959016078
+        },
+        {
+          "message": "Okay, stopping ⏸️",
+          "response": "wait fr?",
+          "timestamp": 1781959016147
+        },
+        {
+          "message": "You're finally acting normal after all those \"wait fr\" comments.",
+          "response": "hmm interesting",
+          "timestamp": 1781959016822
+        },
+        {
+          "message": "Yeah, no kidding, you're always stopping and starting, make up your mind, lol.",
+          "response": "lol facts",
+          "timestamp": 1781959017688
+        },
+        {
+          "message": "Something broke, my bad.",
+          "response": "haha yeah",
+          "timestamp": 1781959020221
+        },
+        {
+          "message": "Hey, what do you need?",
+          "response": "lol fair enough",
+          "timestamp": 1781959020342
+        },
+        {
+          "message": "Something broke, my bad.",
+          "response": "wait fr?",
+          "timestamp": 1781959020357
+        },
+        {
+          "message": "Okay, stopping ⏸️",
+          "response": "hmm interesting",
+          "timestamp": 1781959020398
+        },
+        {
+          "message": "Okay, stopping ⏸️",
+          "response": "hmm interesting",
+          "timestamp": 1781959024990
+        },
+        {
+          "message": "Something broke, my bad.",
+          "response": "lol fair enough",
+          "timestamp": 1781959025098
+        }
+      ],
+      "likes": [
+        {
+          "message": "Yeah right, haha yeah, save it, NEKO2, I know you're still struggling to find diamonds between Y level -58 to -64, get an iron pickaxe or better and try strip mining, geez! 😒",
+          "timestamp": 1781958928887
+        }
+      ],
+      "dislikes": []
+    }
+  },
+  "base": {
+    "location": null,
+    "upgrades": [
+      "none"
+    ],
+    "nextUpgrade": "dirt_shelter",
+    "resourcesCollected": 86
+  },
+  "inventory": {
+    "wood": 86,
+    "stone": 0,
+    "iron": 0,
+    "gold": 0,
+    "diamond": 0,
+    "other": {}
+  },
+  "locations": {},
+  "specialPlayers": {
+    "DJ_Kuddus": {
+      "nickname": "SUN",
+      "role": "creator",
+      "personality": "respectful"
+    },
+    "Ancention": {
+      "nickname": "HASIB",
+      "role": "roast_target",
+      "personality": "savage"
+    },
+    "Rejwan13344": {
+      "nickname": "REJWAN",
+      "role": "rizz_target",
+      "personality": "flirty"
+    }
+  }
+}
